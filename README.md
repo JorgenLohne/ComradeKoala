@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Jørgen👋
+
+I'm a computer science student at Univeristy of Bergen
+
+🌱 I’m currently learning full-stack web development with React.js and Node.js, and working towards creating my first website.
 
 <!--
 **ComradeKoala/ComradeKoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
