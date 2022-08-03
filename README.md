@@ -1,6 +1,6 @@
 ### Hi there, my name is Jørgen👋
 
-I'm a computer science student at Univeristy of Bergen
+I am a Software engineer having fun exploring different technologies
 
 <!--
 **ComradeKoala/ComradeKoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
