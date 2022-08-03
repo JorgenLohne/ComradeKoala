@@ -1,4 +1,4 @@
-### Hi there, my name is Jørgen👋
+### Hi there 👋 my name is Jørgen
 
 I am a Software engineer having fun exploring different technologies
 
